@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "turndown": "^7.1.2"
+  }
+}
