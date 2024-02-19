@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#define USE_STDIN 0
+
 class Solution
 {
 public:
@@ -15,7 +17,19 @@ public:
 int main()
 {
     Solution s;
-    vector<int> a = {3, 2, 1, 5, 6, 4};
-    cout << s.findKthLargest(a, 2) << endl;
+    if (USE_STDIN)
+    {
+        int n, k;
+        cin >> n >> k;
+        vector<int> a(n);
+        for (int i = 0; i < n; i++)
+            cin >> a[i];
+        cout << s.findKthLargest(a, k) << endl;
+    }
+    else
+    {
+        vector<int> a = {3, 2, 1, 5, 6, 4};
+        cout << s.findKthLargest(a, 2) << endl;
+    }
     return 0;
 }
