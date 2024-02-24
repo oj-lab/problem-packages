@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#ifndef USE_STDIN
 #define USE_STDIN 0
+#endif
 
 class Solution
 {
