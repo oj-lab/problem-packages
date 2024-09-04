@@ -1,4 +1,4 @@
-\begin{problem}{Compute's Matrix}{standard input}{standard output}{1 second}{512 megabytes}
+\begin{problem}{Compute's Matrix}{standard input}{standard output}{1 second}{1024 megabytes}
 
 Compute有一个大小为 $n \times n$ 的特殊矩阵，他的第 $i$ 行，第 $j$ 列用 $(i,j)$表示，这个位置上的元素是 $i \times j$。
 

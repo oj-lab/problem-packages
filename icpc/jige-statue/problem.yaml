@@ -2,9 +2,9 @@ name: jige-statue
 
 # TODO: Following limits are not checked. Update them.
 limits:
-  time_multiplier: 5
+  time_multiplier: 1
   time_safety_margin: 2
-  memory: 2048
+  memory: 1024
   output: 8
   code: 128
   compilation_time: 60

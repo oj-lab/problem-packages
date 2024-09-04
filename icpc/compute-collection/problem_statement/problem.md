@@ -1,4 +1,4 @@
-\begin{problem}{Compute's Collection}{standard input}{standard output}{2 seconds}{512 megabytes}
+\begin{problem}{Compute's Collection}{standard input}{standard output}{2 seconds}{1024 megabytes}
 
 Compute是个收集达人，他通过连续 $n$ 天坚持每天吃干脆面收集了一些他最喜爱的人物卡。
 
