@@ -1,3 +1,3 @@
 # ICPC Format Packages
 
-<https://icpc.io/problem-package-format/>
+See more about package format in <https://icpc.io/problem-package-format/>
