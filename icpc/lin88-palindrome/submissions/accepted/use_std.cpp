@@ -2,7 +2,7 @@
 using namespace std;
 
 #ifndef USE_STDIN
-#define USE_STDIN 0
+#define USE_STDIN 1
 #endif
 
 class Solution {
