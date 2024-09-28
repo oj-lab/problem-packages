@@ -10,19 +10,3 @@ The first line contains a string `s`.
 ## Output
 
 Output a string `Hello! %s`.
-
-## Example
-
-### Test Case 1
-
-Input:
-
-```text
-world!
-```
-
-Output:
-
-```text
-Hello! world!
-```
