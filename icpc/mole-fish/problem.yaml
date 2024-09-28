@@ -1,0 +1,5 @@
+name: mole-fish
+
+limits:
+  memory: 1024
+  output: 8

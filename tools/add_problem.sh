@@ -23,4 +23,20 @@ touch "$base/problem_statement/problem.md"
 
 mkdir -p "$base/submissions/accepted"
 touch "$base/submissions/accepted/use_std.cpp"
+
+touch "$base/.timelimit"
+cat <<EOL > $base/.timelimit
+1
+EOL
+echo ".timelimit created"
+
 touch "$base/problem.yaml"
+cat <<EOL > $base/problem.yaml
+name: $1
+
+limits:
+  memory: 1024
+  output: 8
+EOL
+
+echo "problem.yaml created"

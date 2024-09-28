@@ -1,5 +1,3 @@
-\begin{problem}{Compute's Matrix}{standard input}{standard output}{1 second}{1024 megabytes}
-
 Compute有一个大小为 $n \times n$ 的特殊矩阵，他的第 $i$ 行，第 $j$ 列用 $(i,j)$表示，这个位置上的元素是 $i \times j$。
 
 现在给你一个这样的矩阵，以及一个子矩阵的左上角和右下角坐标。
@@ -16,11 +14,3 @@ Compute有一个大小为 $n \times n$ 的特殊矩阵，他的第 $i$ 行，第
 
 \OutputFile
 输出 $T$ 行，每行输出一个整数代表子矩阵的和在对 $10^9+7$ 取模后的结果。
-
-\Example
-
-\begin{example}
-\exmpfile{example.01}{example.01.a}%
-\end{example}
-
-\end{problem}

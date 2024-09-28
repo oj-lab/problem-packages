@@ -1,0 +1,5 @@
+name: jige-AIdrive
+
+limits:
+  memory: 1024
+  output: 8
