@@ -4,17 +4,7 @@ Note that it is the `kth` largest element in the sorted order, not the `kth` dis
 
 Can you solve it without sorting?
 
-**Example 1:**
+## Constraints
 
-**Input:** nums = \[3,2,1,5,6,4\], k = 2 <br/>
-    **Output:** 5
-
-**Example 2:**
-
-**Input:** nums = \[3,2,3,1,2,4,5,5,6\], k = 4 <br/>
-    **Output:** 4
-
-**Constraints:**
-
-* `1 <= k <= nums.length <= 105`
-* `-104 <= nums[i] <= 104`
+- $1 \leq \text{nums.length} \leq 5 \times 10^4$
+- $1 \leq \text{nums}[i] \leq 10^4$
