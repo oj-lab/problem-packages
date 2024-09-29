@@ -3,3 +3,9 @@ name: compute-math
 limits:
   memory: 1024
   output: 8
+
+oj_lab_config:
+  difficulty: "hard"
+  tags:
+    - "number theory"
+    - "graphs"

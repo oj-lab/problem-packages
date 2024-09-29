@@ -37,6 +37,12 @@ name: $1
 limits:
   memory: 1024
   output: 8
+
+oj_lab_config:
+  difficulty: "easy"
+  tags:
+    - "strings"
+    - "input-output"
 EOL
 
 echo "problem.yaml created"

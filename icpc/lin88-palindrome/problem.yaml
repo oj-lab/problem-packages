@@ -3,3 +3,8 @@ name: lin88-palindrome
 limits:
   memory: 1024
   output: 8
+
+oj_lab_config:
+  difficulty: "easy"
+  tags:
+    - "strings"
