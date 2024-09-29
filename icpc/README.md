@@ -12,3 +12,21 @@ they currently only supports loading the following information:
   - `limit.memory`: The memory limit of the problem
   - `limit.output`: The limit size of the output content
 - In `.timelimit`, the value indicates the maximum seconds for each test case
+
+### Additional Information
+
+There are some differences between the ICPC format and the real usage in the OJ Lab:
+
+In `problem.yaml`, there is an additional field `oj_lab_config`
+which is used to store the configuration for the OJ Lab platform.
+You can add the additional information in this format:
+
+```yaml
+oj_lab_config:
+  difficulty: "easy"
+  tags:
+    - "strings"
+    - "input-output"
+```
+
+These fields can help fullfill the problem information for the OJ Lab.
