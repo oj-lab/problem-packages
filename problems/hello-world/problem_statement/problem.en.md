@@ -12,3 +12,7 @@ The first line contains a string `s`.
 ## Output
 
 Output a string `Hello! %s`.
+
+## Constraints
+
+- The length of string `s` is at most 100.
