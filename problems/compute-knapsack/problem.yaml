@@ -1,0 +1,10 @@
+name: Compute's Knapsack
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "hard"
+  tags:
+    - "dp"

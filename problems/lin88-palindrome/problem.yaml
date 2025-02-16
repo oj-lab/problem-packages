@@ -1,0 +1,10 @@
+name: lin88's palindrome
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "easy"
+  tags:
+    - "strings"

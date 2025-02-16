@@ -38,7 +38,7 @@ limits:
   memory: 1024
   output: 8
 
-oj_lab_config:
+oj-lab-metadata:
   difficulty: "easy"
   tags:
     - "strings"

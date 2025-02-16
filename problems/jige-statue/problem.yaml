@@ -1,0 +1,11 @@
+name: 鸡哥的雕像
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "easy"
+  tags:
+    - "math"
+    - "implementation"

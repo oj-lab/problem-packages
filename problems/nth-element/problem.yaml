@@ -1,0 +1,10 @@
+name: nth-element
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "medium"
+  tags:
+    - "sortings"

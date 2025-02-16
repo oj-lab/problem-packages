@@ -1,0 +1,11 @@
+name: Zztrans 的庄园
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "easy"
+  tags:
+    - "input-output"
+    - "math"

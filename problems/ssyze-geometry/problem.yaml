@@ -1,0 +1,11 @@
+name: ssyze's geometry
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "medium"
+  tags:
+    - "math"
+    - "sortings"

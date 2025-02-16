@@ -1,0 +1,10 @@
+name: Compute's Collection
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "medium"
+  tags:
+    - "greedy"

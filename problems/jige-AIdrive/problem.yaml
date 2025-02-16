@@ -1,0 +1,11 @@
+name: 鸡哥的 AI 驾驶
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "medium"
+  tags:
+    - "sortings"
+    - "implementation"

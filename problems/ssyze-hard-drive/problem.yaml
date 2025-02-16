@@ -1,0 +1,11 @@
+name: ssyze's hard drive
+
+limits:
+  memory: 1024
+  output: 8
+
+oj-lab-metadata:
+  difficulty: "easy"
+  tags:
+    - "dp"
+    - "greedy"
